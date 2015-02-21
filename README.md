@@ -1,5 +1,3 @@
-# space-invaders
-
 Space Invaders
 ==============
 
